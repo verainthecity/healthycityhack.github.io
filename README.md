@@ -9,7 +9,7 @@ This is work in progress. Come back soon!
 International Open Data days
 
 ## Organisers: 
-Vitaly, Natasha, Liubov 
+Vitaly (ITMO), Natasha (ITMO), Liubov (CRI, Bell) 
 Informational support: Vlad (Teplitsa)
 
 ## Event description
