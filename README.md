@@ -23,3 +23,8 @@ The hackathon is dedicated to the problem solving for city life. In particular, 
 ## Participants
 All participants can come in teams or find their team before the event (in slack etc.). 
 Approximate number of participants is around 50 people. 
+
+## Registration
+Registration will be open soon. Please write to us if you want to be involved 
+liubov.tupikina at cri-paris.org
+inxaoc at gmail.com
