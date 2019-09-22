@@ -17,11 +17,11 @@ Topics of hackathon: Urbanistics, Data science for social good, Big data analysi
 
 
 ## Abstract
-The hackathon is dedicated to the problem solving for city life. In particular, it is focused on the main topics, such as data science for social good, analysis of big data by citizens, such as mobility data, data about hospitals reachability etc. 
-(Another topic can be developing strategies and maybe (?) also educational materials for citizens to analyze the data about their cities). One of the main motivations for the hackathon is to develop future projects between and across countries. Additionally during hackathon people can discuss with scientists and people working on urbanistic problems.
+The hackathon is dedicated to the topic of healthy life in the city. In particular, it is focused on the main topics, such as data science for social good, analysis of big data by citizens, such as mobility data, data about hospitals reachability etc. 
+One of the main motivations for the hackathon is to develop future projects between and across different disciplines: open data management and collection, urbanistic research, physics, transportational systems analysis, computer science (machine learning methods, development of fast and reliable algorithms for data structures).
 
 ## Participants
-All participants can come in teams or find their team before the event (in slack etc.). 
+All participants can come in teams or find their team before the event. 
 Approximate number of participants is around 50 people. 
 
 ## Registration
