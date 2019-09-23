@@ -24,6 +24,10 @@ One of the main motivations for the hackathon is to develop future projects betw
 All participants can come in teams or find their team before the event. 
 Approximate number of participants is around 50 people. 
 
+## Visa questions 
+Please go to https://pulkovoairport.ru/en/passengers/evisa/
+
+
 ## Registration
 Registration will be open soon. Please write to us if you want to be involved 
 liubov.tupikina at cri-paris.org
