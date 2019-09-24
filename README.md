@@ -1,8 +1,6 @@
 # Hackathon "Healthy City" in Snt.Petersbourg
 Welcome to the website for the hackathon in Snt.Petersbourg "Healthy City"! 
 
-This is work in progress. Come back soon!
-
 ## Dates: 
 1. 6-7-8 December 2019 
 2. Spring of 2020 (so that people from outside Russia could make visas)
@@ -13,8 +11,12 @@ Vitaly (ITMO), Natasha (ITMO), Liubov (CRI, Bell)
 Informational support: Vlad (Teplitsa)
 
 ## Event description
-Topics of hackathon: Urbanistics, Data science for social good, Big data analysis, open city, open education, open data
-
+Topics of hackathon: 
+1. Urbanistics, 
+2. Data science for social good, 
+3. Big data analysis, 
+5. Open city, open education, open data
+6. Health data analysis
 
 ## Abstract
 The hackathon is dedicated to the topic of healthy life in the city. In particular, it is focused on the main topics, such as data science for social good, analysis of big data by citizens, such as mobility data, data about hospitals reachability etc. 
