@@ -1,5 +1,6 @@
 # Hackathon "Healthy City" in Snt.Petersbourg
 Welcome to the website for the hackathon in Snt.Petersbourg "Healthy City"! 
+<img src="images/locationus.png" alt="hi" class="inline"/>
 
 ## Dates: 
 1. 6-7-8 December 2019 
@@ -22,9 +23,9 @@ Topics of hackathon:
 The hackathon is dedicated to the topic of healthy life in the city. In particular, it is focused on the main topics, such as data science for social good, analysis of big data by citizens, such as mobility data, data about hospitals reachability etc. 
 One of the main motivations for the hackathon is to develop future projects between and across different disciplines: open data management and collection, urbanistic research, physics, transportational systems analysis, computer science (machine learning methods, development of fast and reliable algorithms for data structures).
 
-## Participants
+## Participation
 All participants can come in teams or find their team before the event. 
-Approximate number of participants is around 50 people. 
+Approximate number of participants is around 50 people. The event is open to everyone.
 
 ## Visa questions 
 Please go to https://pulkovoairport.ru/en/passengers/evisa/
