@@ -1,6 +1,6 @@
 # Hackathon "Healthy City" in Snt.Petersbourg
 Welcome to the website for the hackathon in Snt.Petersbourg "Healthy City"! 
-<img src="images/locationus.png" alt="hi" class="inline"/>
+<img src="images/petergof.png" alt="hi" class="inline"/>
 
 ## Dates: 
 1. 6-7-8 December 2019 
@@ -8,7 +8,7 @@ Welcome to the website for the hackathon in Snt.Petersbourg "Healthy City"!
 International Open Data days
 
 ## Organisers: 
-Vitaly (ITMO), Natasha (ITMO), Liubov (CRI, Bell) 
+Vitaly Vlasov (ITMO), Natasha Chichkova (ITMO), Liubov Tupikina (CRI, Bell) 
 Informational support: Vlad (Teplitsa)
 
 ## Event description
