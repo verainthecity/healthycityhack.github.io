@@ -4,8 +4,7 @@ Welcome to the website for the hackathon in Snt.Petersbourg "Healthy City"!
 
 ## Dates: 
 1. 6-7-8 December 2019 
-2. Spring of 2020 (so that people from outside Russia could make visas)
-International Open Data days
+2. Spring of 2020 dedicated to International Open Data days
 
 ## Organisers: 
 Vitaly Vlasov (ITMO), Natasha Chichkova (ITMO), Liubov Tupikina (CRI, Bell) 
