@@ -31,6 +31,7 @@ Please go to https://pulkovoairport.ru/en/passengers/evisa/
 
 
 ## Registration
-Registration will be open soon. Please write to us if you want to be involved 
+Registration in English https://forms.gle/5YYGi1qtE1HP4yzq6 
+Please write to us if you want to be involved 
 liubov.tupikina at cri-paris.org
 inxaoc at gmail.com
