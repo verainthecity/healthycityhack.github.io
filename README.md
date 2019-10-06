@@ -9,6 +9,7 @@ Welcome to the website for the hackathon in Snt.Petersbourg "Healthy City"!
 ## Organisers: 
 Vitaly Vlasov (ITMO), Natasha Chichkova (ITMO), Liubov Tupikina (CRI, Bell) 
 Informational support: Vlad (Teplitsa)
+http://www.ifmo.ru/ru/
 
 ## Event description
 Topics of hackathon: 
