@@ -1,10 +1,9 @@
-# Hackathon "Healthy City" in Snt.Petersbourg
+# Hackathon "Healthy City" in St.Petersbourg
 Welcome to the website for the hackathon in Snt.Petersbourg "Healthy City"! 
 <img src="images/petergof.png" alt="hi" class="inline"/>
 
 ## Dates: 
-1. 6-7-8 December 2019 
-2. Spring of 2020 dedicated to International Open Data days
+6-7-8 December 2019 
 
 ## Organisers: 
 Vitaly Vlasov (ITMO), Natasha Chichkova (ITMO), Liubov Tupikina (CRI, Bell) 
@@ -25,7 +24,8 @@ One of the main motivations for the hackathon is to develop future projects betw
 
 ## Participation
 All participants can come in teams or find their team before the event. 
-Approximate number of participants is around 50 people. The event is open to everyone. Program will be posted soon!
+Approximate number of participants is around 50 people. The event is open to everyone. Program will be posted soon! Next event will be in Spring of 2020 dedicated to International Open Data days.
+
 
 ## Visa questions 
 If you need visa, please go to https://pulkovoairport.ru/en/passengers/evisa/
