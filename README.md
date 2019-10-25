@@ -3,7 +3,8 @@ Welcome to the website for the hackathon in Snt.Petersbourg "Healthy City"!
 <img src="images/petergof.png" alt="hi" class="inline"/>
 
 ## Dates: 
-March 2019 Open data days
+7-8 March 2020 Open data days
+together with joint initiative https://opendataday.org/ 
 
 ## Organisers: 
 Vitaly Vlasov (ITMO), Natasha Chichkova (ITMO), Liubov Tupikina (CRI, Bell) 
@@ -43,8 +44,8 @@ inxaoc at gmail.com
 
 Даты:
 
-    6-7-8 декабря 2019 года
-    Весна 2020 года, посвященная Международным дням открытых данных
+   
+    Весна 2020 года, посвященная Международным дням открытых данных 7-8 марта 2020 : https://opendataday.org/ 
 
 Организаторы:
 
