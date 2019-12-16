@@ -1,9 +1,9 @@
 # Hackathon "Healthy City" in St.Petersbourg
-Welcome to the website for the hackathon in Snt.Petersbourg "Healthy City"! 
+Welcome to the website for the hackathon in Snt.Petersbourg "Healthy City" which is coordinated on Open data days 2020! 
 <img src="images/petergof.png" alt="hi" class="inline"/>
 
 ## Dates: 
-7-9 March 2020 Open data days in Russia
+7-9 March 2020 Open data days in Russia https://github.com/okfn/opendataday
 together with joint global initiative https://opendataday.org/ 
 
 ## Organisers: 
