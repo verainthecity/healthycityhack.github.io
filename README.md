@@ -9,14 +9,14 @@ together with joint global initiative https://opendataday.org/
 ## Organisers: 
 Vitaly Vlasov (ITMO), Natasha Chichkova (ITMO), Liubov Tupikina (CRI, Bell) 
 Informational support: Vlad Lavrichenko (Teplitsa)
-http://www.ifmo.ru/ru/
+http://www.ifmo.ru/ru/ (work in progress)
 
 ## Event description
 Topics of hackathon: 
 1. Urbanistics, 
 2. Data science for social good, 
 3. Big data analysis, 
-5. Open city, open education, open data
+5. Open city, open education, open data in healthy city
 6. Health data analysis
 
 ## Abstract of the event
@@ -34,6 +34,7 @@ Do not hesitate to ask us if you have any questions!
 
 ## Registration
 Registration in English https://forms.gle/5YYGi1qtE1HP4yzq6 
+
 Please write to us if you want to be involved 
 liubov.tupikina at cri-paris.org
 inxaoc at gmail.com
