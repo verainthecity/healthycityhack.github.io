@@ -1,5 +1,5 @@
 # Hackathon "Healthy City" in St.Petersbourg
-Welcome to the website for the hackathon in Snt.Petersbourg "Healthy City" which is coordinated on Open data days 2020! 
+Welcome to the website for the hackathon in Snt.Petersbourg "Healthy City" aka Open data days 2020! 
 <img src="images/petergof.png" alt="hi" class="inline"/>
 
 ## Dates: 
