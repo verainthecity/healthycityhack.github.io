@@ -17,7 +17,8 @@ Topics of hackathon:
 2. Data science for social good, 
 3. Big data analysis, 
 5. Open city, open education, open data in healthy city
-6. Health data analysis
+6. Health data analysis 
+Program of the hackathon will be published in March 2020.
 
 ## Abstract of the event
 The hackathon is dedicated to the topic of healthy life in the city. In particular, it is focused on the main topics, such as data science for social good, analysis of big data by citizens, such as mobility data, data about hospitals reachability etc. 
@@ -25,7 +26,7 @@ One of the main motivations for the hackathon is to develop future projects betw
 
 ## Participation
 All participants can come in teams or find their team before the event. 
-Approximate number of participants is around 50 people. The event is open to everyone. Program will be posted soon! Next event will be in Spring of 2020 dedicated to International Open Data days.
+Approximate number of participants is around 50 people. The event is open to everyone. Program will be posted soon! Next event will be in Spring of 2020 dedicated to International Open Data days. Please check the website of our friends to learn more about hackathons in St.Petersburg https://github.com/OpenCityRu and https://te-st.ru/events/hackathon-spb-projector2020/ 
 
 
 ## Visa questions 
