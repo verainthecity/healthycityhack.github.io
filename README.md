@@ -19,8 +19,15 @@ Topics of hackathon are all united by the general topic of equal development. Su
 4. Health data analysis 
 
 ## Program of the event
-The program consists of talk of speakers on data analysis (scientists from ITMO, CRI from open science and open source communities) in order to teach hackathon participants to analyse and publish their data in Open Science Framework. We also suggest several topics on four topics (urbanistics, data analysis for social good, open city mobility and education, health data) in order to allow for participants to work on the data.
-The exact program of the hackathon will be published in February 2020. 
+Event consists of 2 parts:
+1. interactive talks of speakers on data analysis (scientists from ITMO, CRI from open science and open source communities like 
+openhumans.org, jogl.io) 
+in order to teach hackathon participants to analyse and publish their data in Open Science Framework. 
+2. hands-on part to work on several topics on four topics 
+(urbanistics, data analysis for social good, open city mobility and education, 
+health data) in order to work with participants on designing real solutions based on the data. 
+The exact program of the hackathon will be published in February 2020.
+
 
 
 ## Abstract of the event
