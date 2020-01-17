@@ -1,6 +1,5 @@
 # Hackathon "Healthy City" in St.Petersbourg
-Welcome to the website for Open data days 2020 with the hackathon "Healthy City"  in Snt.Petersbourg
-
+Welcome to Open data days 2020 in Snt.Petersbourg, hackathon "Healthy City for equal development"  
 <img src="images/petergof.png" alt="hi" class="inline"/>
 
 ## Dates: 
@@ -13,12 +12,11 @@ Informational support: Vlad Lavrichenko (Teplitsa)
 http://www.ifmo.ru/ru/ (work in progress)
 
 ## Event description
-Topics of hackathon: 
+Topics of hackathon are all united by the general topic of equal development. Subtopics include: 
 1. Urbanistics, 
-2. Data science for social good, 
-3. Big data analysis, 
-5. Open city, open education, open data in healthy city
-6. Health data analysis 
+2. Data science for social good, small and big data analysis, 
+3. Open city, open education, open data in healthy city
+4. Health data analysis 
 Program of the hackathon will be published in March 2020.
 
 ## Abstract of the event
