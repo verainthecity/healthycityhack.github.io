@@ -20,8 +20,7 @@ Topics of hackathon are all united by the general topic of equal development. Su
 
 ## Program of the event
 Event consists of 2 parts:
-1. interactive talks of speakers on data analysis (scientists from ITMO, CRI from open science and open source communities like 
-openhumans.org, jogl.io) 
+1. interactive talks of speakers on data analysis (scientists from ITMO, CRI from open science and open source communities) 
 in order to teach hackathon participants to analyse and publish their data in Open Science Framework. 
 2. hands-on part to work on several topics on four topics 
 (urbanistics, data analysis for social good, open city mobility and education, 
