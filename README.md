@@ -3,13 +3,11 @@ Welcome to Open data days 2020 in Snt.Petersbourg, hackathon "Healthy City for e
 <img src="images/petergof.png" alt="hi" class="inline"/>
 
 ## Dates: 
+in March or May 2020: (to be discussed)
 7-9 March 2020 Open data days in Russia https://github.com/okfn/opendataday
 together with joint global initiative https://opendataday.org/ 
 
-## Organisers: 
-Vitaly Vlasov (ITMO), Natasha Chichkova (ITMO), Liubov Tupikina (CRI, Bell) 
-Informational support: Vlad Lavrichenko (Teplitsa)
-http://www.ifmo.ru/ru/ (work in progress)
+
 
 ## Event description
 Topics of hackathon are all united by the general topic of equal development. Subtopics include: 
@@ -59,10 +57,6 @@ inxaoc at gmail.com
    
     март 7-9, 2020 год, конференция посвящена Международным дням открытых данных: https://opendataday.org/ 
 
-Организаторы:
-
-Виталий Власов (ITMO), Наташа Чичкова (ITMO), Любовь Тупикина (CRI, Bell) Информационная поддержка: Влад (Теплица)
-Описание события
 
 Темы хакатона:
 
