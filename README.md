@@ -76,4 +76,6 @@ inxaoc at gmail.com
 
 
 Регистрация на английском языке https://forms.gle/5YYGi1qtE1HP4yzq6 
-Пожалуйста, напишите нам, если вы хотите принять участие liubov.tupikina at cr-paris.org inxaoc at gmail.com.
+Пожалуйста, напишите нам, если вы хотите принять участие liubov.tupikina at cr-paris.org inxaoc at gmail.com 
+
+City website link https://liyubov.github.io/healthycityhack.github.io/
