@@ -1,11 +1,12 @@
-# Hackathon "Healthy City" in St.Petersbourg
-Welcome to Open data days 2020 in Snt.Petersbourg, hackathon "Healthy City for equal development"  
+# Workshop "Neo Urban Network" 2020 online edition
+Welcome to the online edition of Neo Urban Network workshop 2020
 <img src="images/petergof.png" alt="hi" class="inline"/>
 
 ## Dates: 
-in March or May 2020: (to be discussed)
-7-9 March 2020 Open data days in Russia https://github.com/okfn/opendataday
-together with joint global initiative https://opendataday.org/ 
+November 27th 2020 
+
+Together with Paris team of CI lab and other open data days https://github.com/okfn/opendataday
+Inspired after the joint global initiative https://opendataday.org/ 
 
 
 
@@ -45,37 +46,8 @@ Do not hesitate to ask us if you have any questions!
 Registration in English https://forms.gle/5YYGi1qtE1HP4yzq6 
 
 Please write to us if you want to be involved 
-liubov.tupikina at cri-paris.org
-inxaoc at gmail.com
+liubov.tupikina@cri-paris.org
+verainthecity@yahoo.com
 
 
-# Russian version of the website 
-
-
-Даты:
-
-   
-    март 7-9, 2020 год, конференция посвящена Международным дням открытых данных: https://opendataday.org/ 
-
-
-Темы хакатона:
-
-    Урбанистика,
-    Анализ данных на благо общества,
-    Aнализ больших данных,
-    Открытый город, открытое образование, открытые данные
-    Анализ медицинских данных
-
-Резюме мероприятия
-
-Хакатон посвящен теме здорового образа жизни в городе. В частности, он сосредоточен на основных темах, таких как анализ данных для общественного блага, анализ больших данных: данные о мобильности, данные о достижимости больниц и т.д. Одной из главных мотиваций хакатона является разработка будущих проектов между различными дисциплинами: aнализ и сбор открытых данных, урбанистические исследования, физика, анализ транспортных систем, информатика (методы машинного обучения, разработка быстрых и надежных алгоритмов для структурных данных).
-
-Участие
-
-Все участники могут прийти в команды или найти свою команду до начала мероприятия. Приблизительное число участников - около 50 человек. Мероприятие открыто для всех. Программа скоро будет опубликована!
-
-
-Регистрация на английском языке https://forms.gle/5YYGi1qtE1HP4yzq6 
-Пожалуйста, напишите нам, если вы хотите принять участие liubov.tupikina at cr-paris.org inxaoc at gmail.com 
-
-City website link https://liyubov.github.io/healthycityhack.github.io/
+City website old link https://liyubov.github.io/healthycityhack.github.io/
