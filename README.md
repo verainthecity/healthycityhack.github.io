@@ -6,7 +6,7 @@ Welcome to the online edition of Neo Urban Network workshop 2020
 November 27th 2020 
 
 Together with Paris team of CI lab and other open data days https://github.com/okfn/opendataday
-Inspired after the joint global initiative https://opendataday.org/ 
+Inspired after the joint global initiative https://opendataday.org/ and Urban workshops on Wellbeing and the city.
 
 
 
@@ -46,11 +46,13 @@ https://github.com/OpenCityRu and https://te-st.ru/events/hackathon-spb-projecto
 No visa required in online workshop.
 
 ## Registration
-Registration in English https://forms.gle/825UQyhRpD1u5Rp47
+Registration in English https://forms.gle/dUv6SS2Sn3tdidan7
 
 Please write to us if you want to be involved 
 liubov.tupikina@cri-paris.org
 verainthecity@yahoo.com
 
 
-City website old link https://liyubov.github.io/healthycityhack.github.io/
+City website old link 
+https://verainthecity.github.io/neourbanworkshop.github.io/
+
