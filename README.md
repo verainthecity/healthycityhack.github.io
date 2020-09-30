@@ -1,9 +1,13 @@
-# Workshop "Neo Urban Network" 2020 online edition
+# Workshop "Neo Urban Network" 2020 (online)
 Welcome to the online edition of Neo Urban Network workshop 2020
 <img src="images/petergof.png" alt="hi" class="inline"/>
 
 ## Dates: 
 November 27th 2020 
+## Place: 
+Fully online 
+
+## Organisers
 
 Together with Paris team of CI lab and other open data days https://github.com/okfn/opendataday
 Inspired after the joint global initiative https://opendataday.org/ and Urban workshops on Wellbeing and the city.
